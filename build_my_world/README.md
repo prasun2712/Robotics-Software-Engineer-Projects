@@ -22,9 +22,9 @@
 
 ## Screenshot
 * Gazebo World
-![picture alt](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/tree/main/build_my_world/images/gazebo_world.jpg "Gazebo World")
+![](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/tree/main/build_my_world/images/gazebo_world.jpg "Gazebo World")
 * Skid Steer Robot
-![picture alt](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/tree/main/build_my_world/images/skid_steer_robot.jpg "Skid Steer Robot")
+![](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/tree/main/build_my_world/images/skid_steer_robot.jpg "Skid Steer Robot")
 
 ## Build and Run
 ```
