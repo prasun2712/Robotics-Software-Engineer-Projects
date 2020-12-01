@@ -9,7 +9,7 @@
 6. Write a C++ World Plugin to interact with your world. Your code should display “Welcome to ’s World!” message as soon as you launch the Gazebo world file.
 
 ## Folder Contents
-* [build_my_world](www.google.com)
+* [build_my_world](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/tree/main/build_my_world)
     * **model** - It contains model files for :
         * **my_building** - A single floor structure designed in the Building Editor tool of Gazebo
         * **skid_steer_bot** - A robot designed in the Model Editor tool of Gazebo
@@ -22,9 +22,9 @@
 
 ## Screenshot
 * Gazebo World
-![picture alt](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/blob/master/build_my_world/images/gazebo_world.jpg "Gazebo World")
+![picture alt](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/tree/main/build_my_world/images/gazebo_world.jpg "Gazebo World")
 * Skid Steer Robot
-![picture alt](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/blob/master/build_my_world/images/skid_steer_robot.jpg "Skid Steer Robot")
+![picture alt](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/tree/main/build_my_world/images/skid_steer_robot.jpg "Skid Steer Robot")
 
 ## Build and Run
 ```
