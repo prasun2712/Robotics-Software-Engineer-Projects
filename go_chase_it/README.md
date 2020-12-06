@@ -48,8 +48,8 @@ In this project, you should create two ROS packages inside your `catkin_ws/src`:
 * **Skid Steer Robot** with lidar and camera and also gazebo plugin for robot’s differential drive, lidar, and camera.
 ![](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/blob/main/go_chase_it/videos_and_pictures/robot.png "Skid Steer Robot with lidar and camera and also gazebo plugin for robot’s differential drive, lidar, and camera.")
 
-* **White Ball**.
-![](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/blob/main/go_chase_it/videos_and_pictures/white_ball.png "White Ball")
+* **White Ball** spawned in the world.
+![](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/blob/main/go_chase_it/videos_and_pictures/white_ball.png "White Ball spawned in the world.")
 
 ## Build and Run
 ```
