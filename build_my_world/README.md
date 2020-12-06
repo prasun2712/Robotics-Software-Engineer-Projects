@@ -20,7 +20,7 @@
         * **my_world.world** - Gazebo world file that includes the models as asked in project.
     * **CMakeLists.txt** - File to link the C++ code to libraries and build it.
 
-## Screenshot
+## Images
 * Gazebo World
 ![](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/blob/main/build_my_world/images/gazebo_world.jpg "Gazebo World")
 * Skid Steer Robot
