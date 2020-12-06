@@ -1,0 +1,14 @@
+<launch>
+
+ <!-- What percentage of image from center should the ball be tracked. Value 10 means the ball will be in 10% window of image center. -->
+ <arg name="ball_at_image_center" default="10" />
+
+ <!-- The drive_bot node -->
+  <node name="drive_bot" type="drive_bot" pkg="ball_chaser" output="screen">
+  </node>
+
+ <!-- The process_image node -->
+  <node name="process_image" type="process_image" pkg="ball_chaser" args="$(arg ball_at_image_center)" output="screen">
+  </node>
+
+</launch>
