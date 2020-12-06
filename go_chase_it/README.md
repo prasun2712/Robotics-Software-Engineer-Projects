@@ -50,7 +50,7 @@ In this project, you should create two ROS packages inside your `catkin_ws/src`:
 
 * **White Ball** spawned in the world.
 ![](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/blob/main/go_chase_it/videos_and_pictures/white_ball.png "White Ball spawned in the world.")
-
+                            
 ## Build and Run
 ```
 cd ~/
@@ -68,4 +68,4 @@ roslaunch ball_chaser ball_chaser.launch
 ```
 
 ## Demo Video
-![](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/blob/main/go_chase_it/videos_and_pictures/demo_video.mp4 "Demo Video")
+[![Demo Video.](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/blob/main/go_chase_it/videos_and_pictures/robot.png)](https://www.youtube.com/watch?v=-mQPYVSsn0U)
