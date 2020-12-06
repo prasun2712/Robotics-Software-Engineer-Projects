@@ -43,13 +43,17 @@ In this project, you should create two ROS packages inside your `catkin_ws/src`:
 
 ## Images
 * Gazebo World with the **Robot** and the **White Ball**
-![](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/blob/main/go_chase_it/videos_and_pictures/world.png "Gazebo World with the Robot and the White Ball")
+![](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/blob/main/go_chase_it/pictures/world.png "Gazebo World with the Robot and the White Ball")
 
 * **Skid Steer Robot** with lidar and camera and also gazebo plugin for robot’s differential drive, lidar, and camera.
-![](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/blob/main/go_chase_it/videos_and_pictures/robot.png "Skid Steer Robot with lidar and camera and also gazebo plugin for robot’s differential drive, lidar, and camera.")
+![](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/blob/main/go_chase_it/pictures/robot.png "Skid Steer Robot with lidar and camera and also gazebo plugin for robot’s differential drive, lidar, and camera.")
 
 * **White Ball** spawned in the world.
-![](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/blob/main/go_chase_it/videos_and_pictures/white_ball.png "White Ball spawned in the world.")
+![](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/blob/main/go_chase_it/pictures/white_ball.png "White Ball spawned in the world.")
+
+## Prerequisite
+* Basic knowledge of ROS.
+* ROS Kinetic installed.
                             
 ## Build and Run
 ```
@@ -69,4 +73,4 @@ roslaunch ball_chaser ball_chaser.launch
 
 ## Demo Video
 **Click the image below to see the demo video.**
-[![Demo Video.](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/blob/main/go_chase_it/videos_and_pictures/robot.png)](https://www.youtube.com/watch?v=-mQPYVSsn0U)
+[![Demo Video.](https://github.com/prasun2712/udacity_robotics_nano_degree_submissions/blob/main/go_chase_it/pictures/robot.png)](https://www.youtube.com/watch?v=-mQPYVSsn0U)
