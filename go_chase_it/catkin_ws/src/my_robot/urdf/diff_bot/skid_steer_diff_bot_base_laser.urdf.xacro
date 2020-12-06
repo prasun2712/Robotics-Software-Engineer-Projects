@@ -91,12 +91,6 @@
     <xacro:plate parent="${plate1_parent}" suffix="plate1" parent_size_z="${plate1_parent_size_z}" plate_x="${plate1_x}" plate_y="${plate1_y}"
     plate_z="${plate1_z}" color_rviz="OffWhite" color_gazebo="WoodFloor" />
 
-    <link name="camera_mountpoint"/>
-    <joint name="camera_mountpoint_joint" type="fixed">
-      <origin xyz="${base_size_x/2} 0 .05" rpy="0 0 0" />
-      <parent link="${plate1_parent}_plate1_plate_link"/>
-      <child link="camera_mountpoint" />
-    </joint>
-    <xacro:depth_camera_mount prefix="custom" topic="image" parent_link="camera_mountpoint"/>
+    <xacro:sensor_kinect parent="${plate1_parent}_plate1_plate_link"/>
 
 </robot>
